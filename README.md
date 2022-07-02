@@ -1,6 +1,11 @@
 # This is a Fitness App
 Check out the site here [JDS Royal Fitness](https://jds-royal-fitness.netlify.app/)
 
+This is a body-weight exercise website, where you can search for exercises by category or by body part
+Dedicated exercise page with complete information of muscle training with gif
+Youtube video link for complete information & illustration
+Similar exercises for similar body part as well as for similar equipment
+
 # Some Glimpheses from the website
 
 ## Home Page
@@ -22,3 +27,12 @@ Check out the site here [JDS Royal Fitness](https://jds-royal-fitness.netlify.ap
 
 ## Similar exercises
 ![Screenshot (13)](https://user-images.githubusercontent.com/101583918/175237316-06cd1e3e-6ef1-4559-b9cf-aadaee251a72.png)
+
+
+
+## Contact me
+1995sirohis@gmail.com <br/>
+
+[LinkedIn](https://www.linkedin.com/in/jitesh-sirohi-ba4636136) <br/>
+
+[Github](https://github.com/jitesh-95)
